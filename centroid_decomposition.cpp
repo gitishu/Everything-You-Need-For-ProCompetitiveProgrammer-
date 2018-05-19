@@ -1,5 +1,5 @@
 //program to centroid decompose a given tree
-// iiit threads quora
+// using the threads quora hope that fine :) 
 
 
 #include <cstdio>
